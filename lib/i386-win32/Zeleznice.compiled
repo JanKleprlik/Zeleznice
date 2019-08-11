@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="D:\Hry\Pascal\bin\i386-Win32\fpc.exe" Date="1262918680"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiD:\Stažené D\Zeleznice\lib\i386-win32&quot; &quot;-FuD:\Stažené D\Zeleznice&quot; &quot;-FUD:\Stažené D\Zeleznice\lib\i386-win32\&quot; Zeleznice.pas"/>
-</CONFIG>
